@@ -6,7 +6,7 @@
 
 .img-banner {
     height: 100vh;
-    background: url("../assets/post.jpg") center center / cover;
+    background: url("assets/post.jpg") center center / cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, 0.5);
     
@@ -31,7 +31,7 @@
 
 .img-banner2 {
     height: 100vh;
-    background: url("../assets/praias.jpg") center center / cover;
+    background: url("assets/praias.jpg") center center / cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, 0.5);
     
@@ -43,7 +43,7 @@
 
 .img-banner3 {
     height: 100vh;
-    background: url("../assets/montanhas.jpg") center center / cover;
+    background: url("assets/montanhas.jpg") center center / cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, 0.5);
     
@@ -56,7 +56,7 @@
 
 .img-banner4 {
     height: 100vh;
-    background: url("../assets/florestas.jpg") center center / cover;
+    background: url("assets/florestas.jpg") center center / cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, 0.5);
     
